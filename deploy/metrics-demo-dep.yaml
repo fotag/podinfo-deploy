@@ -23,7 +23,7 @@ spec:
         image: quay.io/brice/metrics-demo:v4-subscription-service
         command:
         - ./metrics-demo
-        - --port=9898
+        - --port=3000
         ports:
         - containerPort: 3000
         readinessProbe:
