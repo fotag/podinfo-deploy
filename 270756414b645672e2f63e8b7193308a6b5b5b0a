@@ -1,0 +1,1 @@
+{"jobID":"0a3b0427-ee6d-9792-9993-cebc621ed9cc","spec":{"type":"policy","cause":{"Message":"","User":"Fotis Aggelis \u003cf.aggelis@pamediakopes.gr\u003e"},"spec":{"dev:deployment/metrics-demo":{"add":{"automated":"true"},"remove":null}}},"result":null}
