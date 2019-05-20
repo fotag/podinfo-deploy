@@ -3,7 +3,7 @@ kind: Ingress
 metadata:
   annotations:
     kubernetes.io/ingress.class: traefik
-    traefik.frontend.rule.type: PathPrefix
+    traefik.frontend.rule.type: "PathPrefixStrip: /metrics-demo/"
   creationTimestamp: null
   name: metrics-demo
   namespace: dev
